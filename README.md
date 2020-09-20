@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Karl. I've been a software engineer in the video game industry for close to 15 years. More recently I am leading teams and technical direction. 
+I'm Karl. I've been a software engineer in the video game industry for close to 15 years. 🎮  More recently I am leading teams and technical direction. 🔭
 
 I work at [Gasket Games](https://www.gasketgames.com). [Check out our open roles](https://gasketgames.bamboohr.com/jobs/) :)
 
