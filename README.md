@@ -6,7 +6,7 @@ Now I am leading teams and technical direction. 🔭
 
 I work at [Gasket Games](https://www.gasketgames.com). [Check out our open roles](https://gasketgames.bamboohr.com/jobs/) :)
 
-I have a [weekly newsletter, you might like it](https://newsletter.karlschmidt.net)!
+I have an [email newsletter, you might like it](https://newsletter.karlschmidt.net)!
 
 You can reach me at [my website](https://www.karlschmidt.net), or on [Twitter](https://twitter.com/kschmidtdev).
 
