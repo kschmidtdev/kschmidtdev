@@ -1,12 +1,8 @@
 ### Hello!
 
-I'm Karl. I've been a software engineer in the video game industry for close to 15 years. 🎮 
+I'm Karl. I've been developing software professionally for over 15 years. 🖥 
 
 Now I am leading teams and technical direction. 🔭
-
-I work at [Gasket Games](https://www.gasketgames.com). [Check out our open roles](https://gasketgames.bamboohr.com/jobs/) :)
-
-I have an [email newsletter, you might like it](https://newsletter.karlschmidt.net)!
 
 You can reach me at [my website](https://www.karlschmidt.net), or on [Twitter](https://twitter.com/kschmidtdev).
 
