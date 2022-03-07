@@ -2,7 +2,7 @@
 
 I'm Karl. I've been developing software professionally for over 15 years. 🖥 
 
-Now I am leading teams and technical direction. 🔭
+Now I am Head of Engineering at [https://formationscorp.com/](Formations). 🔭
 
 You can reach me at [my website](https://www.karlschmidt.net), or on [Twitter](https://twitter.com/kschmidtdev).
 
