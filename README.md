@@ -1,10 +1,10 @@
 ### Hello!
 
-I'm Karl. I've been developing software professionally for over 15 years. 🖥 
+I'm Karl. I've been developing software professionally for over 17 years. 🖥 
 
-Now I am Head of Engineering at [Formations](https://formationscorp.com/). 🔭
+I'm a Fractional CTO with a focus on cross-platform development. 🔭
 
-You can reach me at [my website](https://www.karlschmidt.net), or on [Twitter](https://twitter.com/kschmidtdev).
+You can reach me at [karlschmidt.net](https://www.karlschmidt.net).
 
 <!--
 **kschmidtdev/kschmidtdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
