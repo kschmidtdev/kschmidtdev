@@ -1,8 +1,8 @@
 ### Hello!
 
-I'm Karl. I've been developing software professionally for over 17 years. 🖥 
+I'm Karl. I've been developing software professionally for over 18 years. 🖥 
 
-I'm a Fractional CTO with a focus on cross-platform development. 🔭
+I’m Technical Consultant that helps small SaaS teams ship and grow, better. 🔭
 
 You can reach me at [karlschmidt.net](https://www.karlschmidt.net).
 
