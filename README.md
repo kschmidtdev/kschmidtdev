@@ -1,8 +1,6 @@
 ### Hello!
 
-I'm Karl. I've been developing software professionally for over 18 years. 🖥 
-
-I’m Technical Consultant that helps small SaaS teams ship and grow, better. 🔭
+I'm Karl. I've been developing software professionally for over 19 years. 🖥 I've shipped games, SaaS products and platforms, co-founded a game studio, and now help ecommerce, game and fintech companies with their technology staregy and engineering team leadership. 
 
 You can reach me at [karlschmidt.net](https://www.karlschmidt.net).
 
